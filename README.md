@@ -21,6 +21,6 @@ You can generate and send up to 100 USDT daily with the basic licence and 1000 U
 
 -Flash USDT can be spent.
 
-##TELEGRAM USERNAME : @karbelax
-##PRICE: 30$
-###PAYMENTS: BTC,LTC,ETH,ETC
+## TELEGRAM USERNAME : @karbelax
+## PRICE: 30$
+### PAYMENTS: BTC,LTC,ETH,ETC
